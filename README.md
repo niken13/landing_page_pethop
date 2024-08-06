@@ -1,2 +1,2 @@
 # landing_page_pethop
-ini tuas pertemuan 3
+ini tugs pertemuan 3
